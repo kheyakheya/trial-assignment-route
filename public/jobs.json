@@ -1,0 +1,111 @@
+ [
+      {
+        "id": 6666,
+        "companyLogo": "https://t4.ftcdn.net/jpg/01/67/88/55/240_F_167885544_FhZfOHRg4W0AiuXhi1JH7PvmAyLexUx3.jpg",
+        "jobTitle": "Software Engineer",
+        "companyName": "Company Soft",
+        "remoteOrOnsite": "Remote",
+        "location": "New York",
+        "fulltimeOrPartTime": "Full-time",
+        "salary": "100,000 - 120,000 USD",
+        "jobDescription": "We are looking for a skilled software engineer to join our team and help us build world-class products.",
+        "jobResponsibility": "Write clean, maintainable code that is scalable and performant. Collaborate with cross-functional teams to design and develop new features. Troubleshoot and debug issues as they arise.",
+        "educationalRequirements": "Bachelor's or Master's degree in Computer Science or related field.",
+        "experiences": "2+ years of experience in software engineering.",
+        "contactInformation": {
+          "phone": "+1-123-456-7890",
+          "email": "hr44@example.com"
+        }
+      },
+      {
+        "id": 5555,
+        "companyLogo": "https://t3.ftcdn.net/jpg/03/54/65/92/240_F_354659231_MHG0IVHT9Tswo6uXRGbJVO9OIhcmEDBQ.jpg",
+        "jobTitle": "Marketing Manager",
+        "companyName": "Company Market",
+        "remoteOrOnsite": "Onsite",
+        "location": "San Francisco",
+        "fulltimeOrPartTime": "Full-time",
+        "salary": "80,000 - 100,000 USD",
+        "jobDescription": "We are seeking a skilled Marketing Manager to join our team and help us grow our business.",
+        "jobResponsibility": "Develop and implement marketing strategies that align with business goals. Create and execute marketing campaigns across various channels. Analyze and report on campaign performance.",
+        "educationalRequirements": "Bachelor's or Master's degree in Marketing or related field.",
+        "experiences": "5+ years of experience in marketing, with at least 2 years in a management role.",
+        "contactInformation": {
+          "phone": "+1-123-456-7890",
+          "email": "hr@example.com"
+        }
+      },
+      {
+        "id":4444,
+        "companyLogo": "https://t3.ftcdn.net/jpg/02/59/91/26/240_F_259912646_1kZxA3V9GiQu79hcJsGGJXHpP4EOn4mf.jpg",
+        "jobTitle": "Product Manager",
+        "companyName": "Company RRR",
+        "remoteOrOnsite": "Onsite",
+        "location": "Dhaka",
+        "fulltimeOrPartTime": "Full-time",
+        "salary": "100,000 - 120,000 USD",
+        "jobDescription": "We are looking for an experienced Fresher to join our team",
+        "jobResponsibility": "Do routine monitoring and keep tracking of clients",
+        "educationalRequirements": "Bachelor's  degree in Business or related field.",
+        "experiences": "1+ years of experience in product management.",
+        "contactInformation": {
+          "phone": "+1-123-456-7890",
+          "email": "hr44@example.com"
+        }
+      },
+      {
+        "id":3333,
+        "companyLogo": "https://t3.ftcdn.net/jpg/01/82/26/30/240_F_182263003_qetLxvmZtCA4SJ3mBragsnPLWeh1sC8Z.jpg",
+        "jobTitle": "Delivery Person",
+        "companyName": "Quick Company",
+        "remoteOrOnsite": "Remote",
+        "location": "Bogora",
+        "fulltimeOrPartTime": "Full-time",
+        "salary": "120,000 - 140,000 USD",
+        "jobDescription": "We are looking for an honest and hardworking person",
+        "jobResponsibility": "Deliver goods on time",
+        "educationalRequirements": "no need",
+        "experiences": "0 years of experience in product management.",
+        "contactInformation": {
+          "phone": "+1-123-456-7890",
+          "email": "hr333@example.com"
+        }
+      },
+      {
+        "id":2222,
+        "companyLogo": "https://t3.ftcdn.net/jpg/01/96/41/28/240_F_196412869_24kdM2kmzidokn2rCnxEFUbgdFqQiWza.jpg",
+        "jobTitle": "Executive",
+        "companyName": "Tata Company",
+        "remoteOrOnsite": "Remote",
+        "location": "Chittagong",
+        "fulltimeOrPartTime": "Part-time",
+        "salary": "120,000 - 140,000 USD",
+        "jobDescription": "We are looking for an experienced Product Manager to join our team and help us build innovative products.",
+        "jobResponsibility": "Develop and maintain a product roadmap that aligns with business goals. Collaborate with cross-functional teams to design and develop new products. Analyze market trends and customer feedback to inform product decisions.",
+        "educationalRequirements": "Bachelor's or Master's degree in Business or related field.",
+        "experiences": "2+ years of experience in product management.",
+        "contactInformation": {
+          "phone": "+1-123-456-7890",
+          "email": "hr123@example.com"
+        }
+      },
+      {
+        "id":1111,
+        "companyLogo": "https://t4.ftcdn.net/jpg/01/96/83/15/240_F_196831523_ktPLU5p4P2tLHY1dti8fEl9AcOjO4Ume.jpg",
+        "jobTitle": "Senior Executive ",
+        "companyName": "Company zing",
+        "remoteOrOnsite": "Remote",
+        "location": "Austin",
+        "fulltimeOrPartTime": "Part-time",
+        "salary": "120,000 - 140,000 USD",
+        "jobDescription": "We are looking for an experienced and energetic person.",
+        "jobResponsibility": "Develop and coordinate business goals. Collaborate with cross-functional teams to design and develop new products. Analyze market trends and customer feedback to inform product decisions.",
+        "educationalRequirements": "Bachelor's or Master's degree in Business or related field.",
+        "experiences": "7+ years of experience in product management.",
+        "contactInformation": {
+          "phone": "+1-123-456-7890",
+          "email": "hr111@example.com"
+        }
+      }
+    ]
+  

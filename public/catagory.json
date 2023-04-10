@@ -1,0 +1,26 @@
+[
+    {
+    "logo": "https://media.istockphoto.com/id/1426101059/photo/mockup-phone-screen-night-office-and-business-working-advertising-and-mobile-brand-space.jpg?b=1&s=170667a&w=0&k=20&c=6Cv1KpchPSgyq-1GKcyvj32FX7uftFV8oNMVMGAOqO4=",
+    "category": "Technology",
+    "jobs": 10,
+    "id": 111
+    },
+    {
+    "logo": "https://media.istockphoto.com/id/1473549881/photo/3d-icon-with-black-graduation-cap-isolated-object-education-illustration-set-college-cap.jpg?b=1&s=170667a&w=0&k=20&c=nvpsPRu5Jjk27PGkJDCG6UwoWAm5iLCKavSZ0G9aXdA=",
+    "category": "Education",
+    "jobs": 11,
+    "id": 222
+    },
+    {
+    "logo": "https://media.istockphoto.com/id/173592591/photo/favorite.jpg?b=1&s=170667a&w=0&k=20&c=OsGkRUZt_Y5z_Mh7sgoOdiFSA1fTgemJT-6E7pX9534=",
+    "category": "Medical",
+    "jobs": 12,
+    "id": 333
+    },
+    {
+    "logo": "https://media.istockphoto.com/id/850881300/photo/brand-business-concept.jpg?b=1&s=170667a&w=0&k=20&c=CL6NAQUhydicZVs_IJpVCr6b1yeiC_C-aIcqgxlsSd0=",
+    "category": "Marketing",
+    "jobs": 13,
+    "id": 444
+    }
+    ]
